@@ -1,0 +1,59 @@
+/*El cuerpo de la pagina*/body{
+	margin:40px;
+	padding: 1px;
+	background-color: black;
+}
+/*Encabezado*/
+header{
+	text-align: center;
+	color: #B29575;
+	font-size: 30px;
+	background-image:url(../img/encabezado.jpg); 
+	border:black
+	margin:40px;
+	padding: 100px;
+	font-family: 'Bangers';
+}
+/*intro*/
+.summary{
+	text-align: center;
+	font-size: 18px;
+	background-color: black;
+	color:white; 
+}
+/*intro2*/
+.preamble{
+	background-color: white;
+	text-align: center;
+	margin: 40px;
+	padding:10px;
+}
+.preamble h3{
+	font-size: 22px;
+	color: black;
+}
+.preamble p{
+	color: black;
+	font-size: 18px;
+}
+.peamble abbr{
+	color:#CF8888;
+}
+/*secion*/
+.explanation{
+	text-align: center;
+	background-color: black;
+	color:white; 
+}
+.explanation h3{
+	font-size: 18px;
+}
+.explanation p{
+	font-size: 16px;
+	margin: 24px 60px 24px 60px;
+}
+/*Links*/
+a:link{
+	text-decoration: none;
+	color: #B29575;
+}
